@@ -24,7 +24,7 @@
   "dependencies": {
     "async": "^0.9",
     "check-types": "^3.1.1",
-    "mmmagic": "^0.3"
+    "mmmagic": "^0.4"
   },
   "devDependencies": {
     "coveralls": "^2.8",
